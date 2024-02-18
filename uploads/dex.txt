@@ -1,0 +1,81 @@
+{
+  "version": 1.0,
+  "message": "รายการอัปเดตล่าสุด!\r\nเพิ่มServer-True nopro 5 server\n                  Dtac nopro 5 server\n                  Ais play      5 server\n",
+  "data": [
+    {
+      "name": "Thailand AIS-PLAY1",
+      "detail": "",
+      "content": "vless://450cab08-3142-42e1-b806-3f288426142e@aaaa1.dekwattvpn.xyz:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#watt1-dekwatt"
+    },
+    {
+      "name": "Thailand AIS-PLAY2",
+      "detail": "",
+      "content": "vless://e8fbde60-2b0d-421f-9f6d-deebb256e97f@aaaa2.dekwattvpn.xyz:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#watt2-v1prdw03"
+    },
+    {
+      "name": "Thailand AIS-PLAY3",
+      "detail": "",
+      "content": "vless://c282df1d-87ae-4736-8225-1048eafd8ecf@aaaa3.dekwattvpn.xyz:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#watt3-9z8mj5bd"
+    },
+    {
+      "name": "Thailand AIS-PLAY4",
+      "detail": "",
+      "content": "vless://3034b20d-fbfd-4a98-bee3-3c4133c4d2c8@aaaa4.dekwattvpn.xyz:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#watt4-10l6zrgm"
+    },
+    {
+      "name": "Thailand AIS-PLAY5",
+      "detail": "",
+      "content": "vless://1ea8c021-9d86-4f63-a75e-30dfbf471aa3@aaaa5.dekwattvpn.xyz:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#watt5-q28youja"
+    },
+    {
+      "name": "Thailand DTAC-NOPRO1",
+      "detail": "",
+      "content": "vless://450cab08-3142-42e1-b806-3f288426142e@[0:0:0:0:0:ffff:a29f:862a]:8880?path=%2F&security=none&encryption=none&host=aaaa1.dekwattvpn.xyz&type=ws#watt1-dekwatt"
+    },
+    {
+      "name": "Thailand DTAC-NOPRO2",
+      "detail": "",
+      "content": "vless://e8fbde60-2b0d-421f-9f6d-deebb256e97f@[0:0:0:0:0:ffff:a29f:862a]:8880?path=%2F&security=none&encryption=none&host=aaaa2.dekwattvpn.xyz&type=ws#watt2-v1prdw03"
+    },
+    {
+      "name": "Thailand DTAC-NOPRO3",
+      "detail": "",
+      "content": "vless://c282df1d-87ae-4736-8225-1048eafd8ecf@[0:0:0:0:0:ffff:a29f:862a]:8880?path=%2F&security=none&encryption=none&host=aaaa3.dekwattvpn.xyz&type=ws#watt3-9z8mj5bd"
+    },
+    {
+      "name": "Thailand DTAC-NOPRO4",
+      "detail": "",
+      "content": "vless://3034b20d-fbfd-4a98-bee3-3c4133c4d2c8@[0:0:0:0:0:ffff:a29f:862a]:8880?path=%2F&security=none&encryption=none&host=aaaa4.dekwattvpn.xyz&type=ws#watt4-10l6zrgm"
+    },
+    {
+      "name": "Thailand DTAC-NOPRO5",
+      "detail": "",
+      "content": "vless://1ea8c021-9d86-4f63-a75e-30dfbf471aa3@[0:0:0:0:0:ffff:a29f:862a]:8880?path=%2F&security=none&encryption=none&host=aaaa5.dekwattvpn.xyz&type=ws#watt5-q28youja"
+    },
+    {
+      "name": "Thailand TRUE-NOPRO1",
+      "detail": "",
+      "content": "vless://450cab08-3142-42e1-b806-3f288426142e@[0:0:0:0:0:ffff:6812:0aa1]:8880?path=%2F&security=none&encryption=none&host=aaaa1.dekwattvpn.xyz&type=ws#watt1-dekwatt"
+    },
+    {
+      "name": "Thailand TRUE-NOPRO2",
+      "detail": "",
+      "content": "vless://e8fbde60-2b0d-421f-9f6d-deebb256e97f@[0:0:0:0:0:ffff:6812:0aa1]:8880?path=%2F&security=none&encryption=none&host=aaaa2.dekwattvpn.xyz&type=ws#watt2-v1prdw03"
+    },
+    {
+      "name": "Thailand TRUE-NOPRO3",
+      "detail": "",
+      "content": "vless://c282df1d-87ae-4736-8225-1048eafd8ecf@[0:0:0:0:0:ffff:6812:0aa1]:8880?path=%2F&security=none&encryption=none&host=aaaa3.dekwattvpn.xyz&type=ws#watt3-9z8mj5bd"
+    },
+    {
+      "name": "Thailand TRUE-NOPRO4",
+      "detail": "",
+      "content": "vless://3034b20d-fbfd-4a98-bee3-3c4133c4d2c8@[0:0:0:0:0:ffff:6812:0aa1]:8880?path=%2F&security=none&encryption=none&host=aaaa4.dekwattvpn.xyz&type=ws#watt4-10l6zrgm"
+    },
+    {
+      "name": "Thailand TRUE-NOPRO5",
+      "detail": "",
+      "content": "vless://1ea8c021-9d86-4f63-a75e-30dfbf471aa3@[0:0:0:0:0:ffff:6812:0aa1]:8880?path=%2F&security=none&encryption=none&host=aaaa5.dekwattvpn.xyz&type=ws#watt5-q28youja"
+    }
+  ]
+}
