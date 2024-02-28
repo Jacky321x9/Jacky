@@ -1,0 +1,106 @@
+{
+  "version": 2.5,
+  "message": "รายการอัปเดตServer\nแก้ไขเซิร์ฟเวอร์ใหม่ 10เซิร์ฟเวอร์\nส่วน Dtac ยังไม่สามารถใช้งานได้\r\n\r\nเซิร์ฟเวอร์จะรีบูตทุกวันตามเวลานี้\r\n--> (เวลา00:00 น.)\r\n--> (เวลา 03:30 น.)",
+  "data": [
+    {
+      "name": "Thailand-01 Ais โปรเพล",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://b6670224-a606-48cc-8fd9-87fd5359c94e@xray-01.nichaprovpn.com:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Server01-apollo"
+    },
+    {
+      "name": "Thailand-01 True โนโปร",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://b6670224-a606-48cc-8fd9-87fd5359c94e@[0:0:0:0:0:ffff:6812:0bcf]:8880?path=%2F&security=none&encryption=none&host=xray-01.nichaprovpn.com&type=ws#Server01-apollo"
+    },
+    {
+      "name": "Thailand-02 Ais โปรเพล",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://a465068e-cd27-45cf-a56d-29f642cf6056@xray-02.nichaprovpn.com:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Server02-apollo"
+    },
+    {
+      "name": "Thailand-02 True โนโปร",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://a465068e-cd27-45cf-a56d-29f642cf6056@[0:0:0:0:0:ffff:6812:0bcf]:8880?path=%2F&security=none&encryption=none&host=xray-02.nichaprovpn.com&type=ws#Server02-apollo"
+    },
+    {
+      "name": "Thailand-03 Ais โปรเพล",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://c68f9bbd-ece7-4515-b4ad-e3970f74c613@xray-03.nichaprovpn.com:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Server03-apollo"
+    },
+    {
+      "name": "Thailand-03 True โนโปร",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://c68f9bbd-ece7-4515-b4ad-e3970f74c613@[0:0:0:0:0:ffff:6812:0bcf]:8880?path=%2F&security=none&encryption=none&host=xray-03.nichaprovpn.com&type=ws#Server03-apollo"
+    },
+    {
+      "name": "Thailand-04 Ais โปรเพล",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://f0cb5297-03da-4811-9a70-5b9e4ff51b8d@xray-04.nichaprovpn.com:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Server04-apollo"
+    },
+    {
+      "name": "Thailand-04 True โนโปร",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://f0cb5297-03da-4811-9a70-5b9e4ff51b8d@[0:0:0:0:0:ffff:6812:0bcf]:8880?path=%2F&security=none&encryption=none&host=xray-04.nichaprovpn.com&type=ws#Server04-apollo"
+    },
+    {
+      "name": "Thailand-05 Ais โปรเพล",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://afb2e4ef-fa8e-4085-8694-485514c9bad9@xray-05.nichaprovpn.com:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Server05-apollo"
+    },
+    {
+      "name": "Thailand-05 True โนโปร",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://afb2e4ef-fa8e-4085-8694-485514c9bad9@[0:0:0:0:0:ffff:6812:0bcf]:8880?path=%2F&security=none&encryption=none&host=xray-05.nichaprovpn.com&type=ws#Server05-apollo"
+    },
+    {
+      "name": "Thailand-06 Ais โปรเพล",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://15e02d7e-09dd-49b5-af56-809c455a679a@xray-06.nichaprovpn.com:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Server06-apollo"
+    },
+    {
+      "name": "Thailand-06 True โนโปร",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://15e02d7e-09dd-49b5-af56-809c455a679a@[0:0:0:0:0:ffff:6812:0bcf]:8880?path=%2F&security=none&encryption=none&host=xray-06.nichaprovpn.com&type=ws#Server06-apollo"
+    },
+    {
+      "name": "Thailand-07 Ais โปรเพล",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://3c9cdd21-b91f-4da6-9091-a9b539260047@xray-07.nichaprovpn.com:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Server07-apollo"
+    },
+    {
+      "name": "Thailand-07 True โนโปร",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://3c9cdd21-b91f-4da6-9091-a9b539260047@[0:0:0:0:0:ffff:6812:0bcf]:8880?path=%2F&security=none&encryption=none&host=xray-07.nichaprovpn.com&type=ws#Server07-apollo"
+    },
+    {
+      "name": "Thailand-08 Ais โปรเพล",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://fd37a255-f770-4dcd-bbde-20f51aa965a9@xray-08.nichaprovpn.com:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Server08-apollo"
+    },
+    {
+      "name": "Thailand-08 True โนโปร",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://fd37a255-f770-4dcd-bbde-20f51aa965a9@[0:0:0:0:0:ffff:6812:0bcf]:8880?path=%2F&security=none&encryption=none&host=xray-08.nichaprovpn.com&type=ws#Server08-apollo"
+    },
+    {
+      "name": "Thailand-09 Ais โปรเพล",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://6cf8257a-22e3-4e24-b7da-fd79e62c92d7@xray-09.nichaprovpn.com:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Server09-apollo"
+    },
+    {
+      "name": "Thailand-09 True โนโปร",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://6cf8257a-22e3-4e24-b7da-fd79e62c92d7@[0:0:0:0:0:ffff:6812:0bcf]:8880?path=%2F&security=none&encryption=none&host=xray-09.nichaprovpn.com&type=ws#Server09-apollo"
+    },
+    {
+      "name": "Thailand-10 Ais โปรเพล",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://bcedf8ea-0bfe-4d7f-90ba-9dae9bb4e05d@xray-10.nichaprovpn.com:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Server10-apollo"
+    },
+    {
+      "name": "Thailand-10 True โนโปร",
+      "detail": "ดูหนัง,ฟังเพลง,และใช้งานทั่วไป",
+      "content": "vless://bcedf8ea-0bfe-4d7f-90ba-9dae9bb4e05d@[0:0:0:0:0:ffff:6812:0bcf]:8880?path=%2F&security=none&encryption=none&host=xray-10.nichaprovpn.com&type=ws#Server10-apollo"
+    }
+  ]
+}
