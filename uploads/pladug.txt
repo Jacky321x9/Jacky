@@ -1,0 +1,1494 @@
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote thai11.kawsankaw.uk
+http-proxy thai11.kawsankaw.uk 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-thai11.kawsankaw.uk
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+a123
+1212
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.327 ta.i
+-><init>(01D4.java:1)
+a1-thai-02
+--------------------
+13:10:13.327 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+a123
+--------------------
+13:10:13.328 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.328 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+thai11.kawsankaw.uk
+--------------------
+13:10:13.328 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+thai11.kawsankaw.uk
+--------------------
+13:10:13.329 wa.a
+->g(01E6.java:3)
+a1-thai-03
+--------------------
+13:10:13.329 wa.a
+->b(01E6.java:5)
+a1-thai-03
+--------------------
+13:10:13.330 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.332 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.354 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.365 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.366 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.370 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote a2th12.chaiyaonline.uk
+http-proxy a2th12.chaiyaonline.uk 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-a2th12.chaiyaonline.uk
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+a123
+1212
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+MIIGHTCCBAWgAwIBAgIUF+cjlwxvdSXmTfX8yQn+Q4gy0L4wDQYJKoZIhvcNAQEL
+BQAwWzELMAkGA1UEBhMCVEgxDDAKBgNVBAgMA0JLSzEMMAoGA1UEBwwDQktLMQ8w
+DQYDVQQKDAZUSEFJNEcxHzAdBgkqhkiG9w0BCQEWEHRlcHlvbkBnbWFpbC5jb20w
+HhcNMjIxMDMwMDc0NjAyWhcNMzIxMDI3MDc0NjAyWjBbMQswCQYDVQQGEwJUSDEM
+MAoGA1UECAwDQktLMQwwCgYDVQQHDANCS0sxDzANBgNVBAoMBlRIQUk0RzEfMB0G
+CSqGSIb3DQEJARYQdGVweW9uQGdtYWlsLmNvbTCCAiIwDQYJKoZIhvcNAQEBBQAD
+ggIPADCCAgoCggIBAL60RswdU9LP0Fox3I65paWyVLdBpu33memKvOWTpm7jtdjW
+DTZwkFB517ZS+MgMr+rpmbfRKh0e6tmcpar+1ixVwHwVWMijMR95yIBYgxQh8Wlr
+45aAf747HWFWYnW6YR5uQkG+WDj0P6k53JtvICxqK+ca11u2fvfALE0CThl4IRHB
+6MxcLKrnZYdmtwPFqIrB73UZWIaoV0KYnOjnOFXTT7qXd1CR6OsTZi/VIq8vFYsy
+U/eqhNgG4rvva4N+iQOv3kaBXo3u2trZxqK+Eia1BK7k/R4IFnxSaQsFLfnCuiay
+XUZ1jp2NIQ4aUFYAjOCuEU5Cw1jFWQ7mZyBIX9sUWPkDnkjDVGUgaazEG5vaC6em
+a3cPWWOC5G+d2KLgOgmSbUhSZ+Nvoj5HaihZLem1PF4tYaXlBR/IOiTxECQA97qi
+GYv0OyBp7pPG2nFviu7Gzcvcn1rwb1LpoeRM6U0pl5VQyqi8+wuMOyTXZ3Hb9xu9
+019+J6d9AZXYC8RbOdGDSxJStDZ9DSfzr+fpRf3WhbgH5qWu0aH5zs9a88FLKzZk
+WcjYHcWGmn7EKY8nVoQbsIwHWjhEprJ8Kx/MtG6hBAEoz0se8fm2hZ5mo4z2uE09
+lg12hwU8CRxmKE4yaVJCcAnRpOH+dX/tks/uzVR9tyhq3AGi3FD9DoZYh4SXAgMB
+AAGjgdgwgdUwHQYDVR0OBBYEFPRhVd6faqYKZhvgns6R4DF2qsLxMIGYBgNVHSME
+gZAwgY2AFPRhVd6faqYKZhvgns6R4DF2qsLxoV+kXTBbMQswCQYDVQQGEwJUSDEM
+MAoGA1UECAwDQktLMQwwCgYDVQQHDANCS0sxDzANBgNVBAoMBlRIQUk0RzEfMB0G
+CSqGSIb3DQEJARYQdGVweW9uQGdtYWlsLmNvbYIUF+cjlwxvdSXmTfX8yQn+Q4gy
+0L4wDAYDVR0TBAUwAwEB/zALBgNVHQ8EBAMCAQYwDQYJKoZIhvcNAQELBQADggIB
+ALCMN1CdxkUCxsFkPimqqe1OxHnNFGEgVZOFdrSfrM8HgRRxM4n+25dzWK6qlp2I
+a+aUuw2d/T3Z+h5JKGfCtH+PETHB+YgeNqxRoM5pt4RPdjihYPL17cdm9FQQ3LkK
+V4ZrhsLOjTdzcKD/H75Wl9eFXtN7iNgdIM38yvazaIjeuObDrweduAQrWf7qbSgq
+U9HU07R/AxUrrkP4jvhHBpZ7Yi38k3g1OLdrSwkCjLLef0NVlR1yIlaJ18GsOClM
+d6O8ZwKv+++Az8Z6qIp1qr0aGoME8qgVfTf1BWWtV8Ls0BrXyPJc/iJBxj5u9H2K
+jcVqlYwQxXb4xg+r4i1XTg2u+Dmg4pahNTxFhlwBSsrMwzLSIrZA6P0bc/AaSNZI
+7pzt+esoVT0xzCC7mjIeCvk9JMBZOL3+chkEVV2nAn1NpossWUrvQzlgJa0qSZy2
+8oSpqoUYiC0cPkwmkCYpf0QwjBXClpbr6S9ixkmPVWhf56RQDE03xZJKjHrT4ZJm
+yWsQmdQNHDDgGC3hCW77qXvJ+0EcpYuGDkL4KEjm4yHGlTY6lp4SYQ/UI6iwB0JC
+gEZNhpwOFxSSfL9td0kqGFcUSYFmXC7tLtbRFzuSDh2WQ0FpUWN8Pro65+UZGt8x
+bGpXrc5zohEJkXoURLSk6AbbQpQySHCshTQAYdZEBil0
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.373 ta.i
+-><init>(01D4.java:1)
+a1-thai-03
+--------------------
+13:10:13.374 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+a123
+--------------------
+13:10:13.374 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.375 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+a2th12.chaiyaonline.uk
+--------------------
+13:10:13.375 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+a2th12.chaiyaonline.uk
+--------------------
+13:10:13.376 wa.a
+->g(01E6.java:3)
+a1-thai-04
+--------------------
+13:10:13.376 wa.a
+->b(01E6.java:5)
+a1-thai-04
+--------------------
+13:10:13.377 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.381 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.406 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.415 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.416 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.420 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote a2thai13.asw315h.uk
+http-proxy a2thai13.asw315h.uk 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-a2thai13.asw315h.uk
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+a123
+1212
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.422 ta.i
+-><init>(01D4.java:1)
+a1-thai-04
+--------------------
+13:10:13.423 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+a123
+--------------------
+13:10:13.423 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.423 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+a2thai13.asw315h.uk
+--------------------
+13:10:13.424 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+a2thai13.asw315h.uk
+--------------------
+13:10:13.424 wa.a
+->g(01E6.java:3)
+a1-thai-05
+--------------------
+13:10:13.425 wa.a
+->b(01E6.java:5)
+a1-thai-05
+--------------------
+13:10:13.426 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.428 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.449 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.459 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.459 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.463 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote sudman1.hengjaren.uk
+http-proxy sudman1.hengjaren.uk 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-sudman1.hengjaren.uk
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+a123
+1212
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+MIIGHTCCBAWgAwIBAgIUF+cjlwxvdSXmTfX8yQn+Q4gy0L4wDQYJKoZIhvcNAQEL
+BQAwWzELMAkGA1UEBhMCVEgxDDAKBgNVBAgMA0JLSzEMMAoGA1UEBwwDQktLMQ8w
+DQYDVQQKDAZUSEFJNEcxHzAdBgkqhkiG9w0BCQEWEHRlcHlvbkBnbWFpbC5jb20w
+HhcNMjIxMDMwMDc0NjAyWhcNMzIxMDI3MDc0NjAyWjBbMQswCQYDVQQGEwJUSDEM
+MAoGA1UECAwDQktLMQwwCgYDVQQHDANCS0sxDzANBgNVBAoMBlRIQUk0RzEfMB0G
+CSqGSIb3DQEJARYQdGVweW9uQGdtYWlsLmNvbTCCAiIwDQYJKoZIhvcNAQEBBQAD
+ggIPADCCAgoCggIBAL60RswdU9LP0Fox3I65paWyVLdBpu33memKvOWTpm7jtdjW
+DTZwkFB517ZS+MgMr+rpmbfRKh0e6tmcpar+1ixVwHwVWMijMR95yIBYgxQh8Wlr
+45aAf747HWFWYnW6YR5uQkG+WDj0P6k53JtvICxqK+ca11u2fvfALE0CThl4IRHB
+6MxcLKrnZYdmtwPFqIrB73UZWIaoV0KYnOjnOFXTT7qXd1CR6OsTZi/VIq8vFYsy
+U/eqhNgG4rvva4N+iQOv3kaBXo3u2trZxqK+Eia1BK7k/R4IFnxSaQsFLfnCuiay
+XUZ1jp2NIQ4aUFYAjOCuEU5Cw1jFWQ7mZyBIX9sUWPkDnkjDVGUgaazEG5vaC6em
+a3cPWWOC5G+d2KLgOgmSbUhSZ+Nvoj5HaihZLem1PF4tYaXlBR/IOiTxECQA97qi
+GYv0OyBp7pPG2nFviu7Gzcvcn1rwb1LpoeRM6U0pl5VQyqi8+wuMOyTXZ3Hb9xu9
+019+J6d9AZXYC8RbOdGDSxJStDZ9DSfzr+fpRf3WhbgH5qWu0aH5zs9a88FLKzZk
+WcjYHcWGmn7EKY8nVoQbsIwHWjhEprJ8Kx/MtG6hBAEoz0se8fm2hZ5mo4z2uE09
+lg12hwU8CRxmKE4yaVJCcAnRpOH+dX/tks/uzVR9tyhq3AGi3FD9DoZYh4SXAgMB
+AAGjgdgwgdUwHQYDVR0OBBYEFPRhVd6faqYKZhvgns6R4DF2qsLxMIGYBgNVHSME
+gZAwgY2AFPRhVd6faqYKZhvgns6R4DF2qsLxoV+kXTBbMQswCQYDVQQGEwJUSDEM
+MAoGA1UECAwDQktLMQwwCgYDVQQHDANCS0sxDzANBgNVBAoMBlRIQUk0RzEfMB0G
+CSqGSIb3DQEJARYQdGVweW9uQGdtYWlsLmNvbYIUF+cjlwxvdSXmTfX8yQn+Q4gy
+0L4wDAYDVR0TBAUwAwEB/zALBgNVHQ8EBAMCAQYwDQYJKoZIhvcNAQELBQADggIB
+ALCMN1CdxkUCxsFkPimqqe1OxHnNFGEgVZOFdrSfrM8HgRRxM4n+25dzWK6qlp2I
+a+aUuw2d/T3Z+h5JKGfCtH+PETHB+YgeNqxRoM5pt4RPdjihYPL17cdm9FQQ3LkK
+V4ZrhsLOjTdzcKD/H75Wl9eFXtN7iNgdIM38yvazaIjeuObDrweduAQrWf7qbSgq
+U9HU07R/AxUrrkP4jvhHBpZ7Yi38k3g1OLdrSwkCjLLef0NVlR1yIlaJ18GsOClM
+d6O8ZwKv+++Az8Z6qIp1qr0aGoME8qgVfTf1BWWtV8Ls0BrXyPJc/iJBxj5u9H2K
+jcVqlYwQxXb4xg+r4i1XTg2u+Dmg4pahNTxFhlwBSsrMwzLSIrZA6P0bc/AaSNZI
+7pzt+esoVT0xzCC7mjIeCvk9JMBZOL3+chkEVV2nAn1NpossWUrvQzlgJa0qSZy2
+8oSpqoUYiC0cPkwmkCYpf0QwjBXClpbr6S9ixkmPVWhf56RQDE03xZJKjHrT4ZJm
+yWsQmdQNHDDgGC3hCW77qXvJ+0EcpYuGDkL4KEjm4yHGlTY6lp4SYQ/UI6iwB0JC
+gEZNhpwOFxSSfL9td0kqGFcUSYFmXC7tLtbRFzuSDh2WQ0FpUWN8Pro65+UZGt8x
+bGpXrc5zohEJkXoURLSk6AbbQpQySHCshTQAYdZEBil0
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.464 ta.i
+-><init>(01D4.java:1)
+a1-thai-05
+--------------------
+13:10:13.465 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+a123
+--------------------
+13:10:13.465 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.466 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+sudman1.hengjaren.uk
+--------------------
+13:10:13.466 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+sudman1.hengjaren.uk
+--------------------
+13:10:13.466 wa.a
+->g(01E6.java:3)
+a1-thai-06
+--------------------
+13:10:13.467 wa.a
+->b(01E6.java:5)
+a1-thai-06
+--------------------
+13:10:13.467 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.470 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.490 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.502 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.503 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.506 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote sudman2.aswinotone.win
+http-proxy sudman2.aswinotone.win 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-sudman2.aswinotone.win
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+a123
+1212
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.509 ta.i
+-><init>(01D4.java:1)
+a1-thai-06
+--------------------
+13:10:13.509 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+a123
+--------------------
+13:10:13.510 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.510 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+sudman2.aswinotone.win
+--------------------
+13:10:13.510 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+sudman2.aswinotone.win
+--------------------
+13:10:13.511 wa.a
+->g(01E6.java:3)
+a1-thai-07
+--------------------
+13:10:13.511 wa.a
+->b(01E6.java:5)
+a1-thai-07
+--------------------
+13:10:13.513 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.516 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.541 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.553 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.554 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.558 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote sudman3.jarengdee.uk
+http-proxy sudman3.jarengdee.uk 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-sudman3.jarengdee.uk
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+a123
+1212
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.560 ta.i
+-><init>(01D4.java:1)
+a1-thai-07
+--------------------
+13:10:13.561 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+a123
+--------------------
+13:10:13.561 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.562 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+sudman3.jarengdee.uk
+--------------------
+13:10:13.562 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+sudman3.jarengdee.uk
+--------------------
+13:10:13.563 wa.a
+->g(01E6.java:3)
+a2-thai-vip-00
+--------------------
+13:10:13.563 wa.a
+->b(01E6.java:5)
+a2-thai-vip-00
+--------------------
+13:10:13.564 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.567 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.591 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.602 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.603 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.606 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote sudman4.jarengdee.uk
+http-proxy sudman4.jarengdee.uk 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-sudman4.jarengdee.uk
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+a123
+123
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.608 ta.i
+-><init>(01D4.java:1)
+a2-thai-vip-00
+--------------------
+13:10:13.608 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+a123
+--------------------
+13:10:13.608 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.609 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+sudman4.jarengdee.uk
+--------------------
+13:10:13.609 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+sudman4.jarengdee.uk
+--------------------
+13:10:13.609 wa.a
+->g(01E6.java:3)
+a2-thai-vip-12
+--------------------
+13:10:13.610 wa.a
+->b(01E6.java:5)
+a2-thai-vip-12
+--------------------
+13:10:13.610 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.613 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.634 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.644 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.645 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.648 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote threadu20x1.smthai4g.win
+http-proxy threadu20x1.smthai4g.win 8080
+http-proxy-option CUSTOM-HEADER Host Host m.youtube.com
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-threadu20x1.smthai4g.win
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+9pladuk9
+141452
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.649 ta.i
+-><init>(01D4.java:1)
+a2-thai-vip-12
+--------------------
+13:10:13.650 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+9pladuk9
+--------------------
+13:10:13.650 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.650 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+threadu20x1.smthai4g.win
+--------------------
+13:10:13.651 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+threadu20x1.smthai4g.win
+--------------------
+13:10:13.651 wa.a
+->g(01E6.java:3)
+b3-thai-3bb%25e0%25b9%2580%25e0%25b8%2599%25e0%25b9%2587%25e0%25b8%2595%25e0%25b8%259a%25e0%25b9%2589%25e0%25b8%25b2%25e0%25b8%2599-1
+--------------------
+13:10:13.651 wa.a
+->b(01E6.java:5)
+b3-thai-3bb%25e0%25b9%2580%25e0%25b8%2599%25e0%25b9%2587%25e0%25b8%2595%25e0%25b8%259a%25e0%25b9%2589%25e0%25b8%25b2%25e0%25b8%2599-1
+--------------------
+13:10:13.652 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.655 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.680 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.691 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.693 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.696 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote slinex1.ckwthai.net
+http-proxy slinex1.ckwthai.net 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<auth-user-pass>
+a123
+1212
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.698 ta.i
+-><init>(01D4.java:1)
+b3-thai-3bbเน็ตบ้าน-1
+--------------------
+13:10:13.698 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+a123
+--------------------
+13:10:13.699 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.699 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+slinex1.ckwthai.net
+--------------------
+13:10:13.699 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+slinex1.ckwthai.net
+--------------------
+13:10:13.700 wa.a
+->g(01E6.java:3)
+b3-thai-3bb%25e0%25b9%2580%25e0%25b8%2599%25e0%25b9%2587%25e0%25b8%2595%25e0%25b8%259a%25e0%25b9%2589%25e0%25b8%25b2%25e0%25b8%2599-2
+--------------------
+13:10:13.700 wa.a
+->b(01E6.java:5)
+b3-thai-3bb%25e0%25b9%2580%25e0%25b8%2599%25e0%25b9%2587%25e0%25b8%2595%25e0%25b8%259a%25e0%25b9%2589%25e0%25b8%25b2%25e0%25b8%2599-2
+--------------------
+13:10:13.701 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.703 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.726 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.737 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.738 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.741 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote slinex2.ckwthai.net
+http-proxy slinex2.ckwthai.net 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<auth-user-pass>
+a123
+1212
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.743 ta.i
+-><init>(01D4.java:1)
+b3-thai-3bbเน็ตบ้าน-2
+--------------------
+13:10:13.743 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+a123
+--------------------
+13:10:13.744 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.744 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+slinex2.ckwthai.net
+--------------------
+13:10:13.744 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+slinex2.ckwthai.net
+--------------------
+13:10:13.745 wa.a
+->g(01E6.java:3)
+c1-high-speed-1
+--------------------
+13:10:13.745 wa.a
+->b(01E6.java:5)
+c1-high-speed-1
+--------------------
+13:10:13.746 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.748 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.770 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.780 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.781 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.784 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote c1fast1.bmswaoi.uk
+http-proxy c1fast1.bmswaoi.uk 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-c1fast1.bmswaoi.uk
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+a123
+123
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.786 ta.i
+-><init>(01D4.java:1)
+c1-high-speed-1
+--------------------
+13:10:13.787 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+a123
+--------------------
+13:10:13.787 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.787 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+c1fast1.bmswaoi.uk
+--------------------
+13:10:13.787 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+c1fast1.bmswaoi.uk
+--------------------
+13:10:13.788 wa.a
+->g(01E6.java:3)
+d3-japan
+--------------------
+13:10:13.788 wa.a
+->b(01E6.java:5)
+d3-japan
+--------------------
+13:10:13.789 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.791 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.816 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.827 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.828 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.831 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote jp199.asw315h.uk
+http-proxy jp199.asw315h.uk 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-jp199.asw315h.uk
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+arch191673
+5b86343f2
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.834 ta.i
+-><init>(01D4.java:1)
+d3-japan
+--------------------
+13:10:13.834 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+arch191673
+--------------------
+13:10:13.835 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.836 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+jp199.asw315h.uk
+--------------------
+13:10:13.836 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+jp199.asw315h.uk
+--------------------
+13:10:13.837 wa.a
+->g(01E6.java:3)
+d3-singapore
+--------------------
+13:10:13.837 wa.a
+->b(01E6.java:5)
+d3-singapore
+--------------------
+13:10:13.838 n7.c
+->c(0321.java:5)
+_androidx_security_master_key_
+--------------------
+13:10:13.841 n7.c
+->b(0321.java:4)
+_androidx_security_master_key_
+--------------------
+13:10:13.863 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.873 com.google.crypto.tink.shaded.protobuf.p1
+->R(02E4.java:1)
+type.googleapis.com/google.crypto.tink.AesGcmHkdfStreamingKey
+--------------------
+13:10:13.874 k.d
+->p(0141.java:3)
+HmacSha256
+--------------------
+13:10:13.877 wa.a
+->b(01E6.java:6)
+client
+nobind
+dev tun
+port 1194
+proto tcp
+remote sgpd1.aswgroup.uk
+http-proxy sgpd1.aswgroup.uk 8080
+redirect-gateway def1
+persist-key
+persist-tun
+comp-lzo yes
+<slow>
+nameserver slow-sgpd1.aswgroup.uk
+publickey 526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71
+</slow>
+<auth-user-pass>
+Anon+1993+Non+Sm
+Non-1993-Anon/X
+</auth-user-pass>
+auth-nocache
+remote-cert-tls server
+user nobody
+group nogroup
+comp-lzo
+verb 3
+dhcp-option DNS 8.8.8.8
+dhcp-option DNS 8.8.4.4
+
+<ca>
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+</ca>
+
+
+--------------------
+13:10:13.879 ta.i
+-><init>(01D4.java:1)
+d3-singapore
+--------------------
+13:10:13.880 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getUserlockedUsername(0173.java:8)
+Anon+1993+Non+Sm
+--------------------
+13:10:13.880 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getStaticChallenge(0173.java:7)
+
+--------------------
+13:10:13.880 net.openvpn.openvpn.ClientAPI_EvalConfig
+->getProfileName(0173.java:3)
+sgpd1.aswgroup.uk
+--------------------
+13:10:13.881 net.openvpn.openvpn.ClientAPI_EvalConfig
