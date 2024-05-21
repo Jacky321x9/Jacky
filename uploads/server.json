@@ -1,0 +1,434 @@
+    {
+      "name": "Thailand 01 AIS ใช้งานทั่วไป",
+      "content": "vless://cdc2498c-d1bc-4d37-9b8d-71ea131975c9@grpc2.madamvpn.tech:80?path=%2Fxrayws&security=none&encryption=none&host=speedtest.net&type=ws#madam01"
+    },
+    {
+      "name": "Thailand 01 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "vless://cdc2498c-d1bc-4d37-9b8d-71ea131975c9@s.dtac.co.th:80?path=%2Fxrayws&security=none&encryption=none&host=grpc2.madamvpn.tech&type=ws#madam01"
+    },
+    {
+      "name": "Thailand 01 TRUE FB GAMING ใช้งานทั่วไป",
+      "content": "vless://cdc2498c-d1bc-4d37-9b8d-71ea131975c9@grpc2.madamvpn.tech:443?path=%2Fxrayws&security=tls&encryption=none&host=grpc2.madamvpn.tech&type=ws&sni=fbcdn.net.com#madam01"
+    },
+    {
+      "name": "Thailand 01 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "vless://cdc2498c-d1bc-4d37-9b8d-71ea131975c9@104.18.36.19:80?path=%2Fxrayws&security=none&encryption=none&host=grpc2.madamvpn.tech&type=ws#madam01"
+    },
+    {
+      "name": "Thailand 02 AIS ใช้งานทั่วไป",
+      "content": "vless://40326beb-f582-4ce9-a728-8f8e719b8543@th02.v2ray.cab:80?path=/vless&security=none&encryption=none&host=speedtest.net&type=ws#madam02"
+    },
+    {
+      "name": "Thailand 02 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "vless://40326beb-f582-4ce9-a728-8f8e719b8543@jaosua.duckdns.org:80?path=/vless&security=none&encryption=none&host=th02.v2ray.cab&type=ws#madam02"
+    },
+    {
+      "name": "Thailand 02 TRUE FB GAMING ใช้งานทั่วไป",
+      "content": "trojan://307ef2a2@th02.v2ray.cab:443?security=tls&type=tcp&sni=fbcdn.net#madam02"
+    },
+    {
+      "name": "Thailand 02 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "vless://40326beb-f582-4ce9-a728-8f8e719b8543@104.18.36.19:80?path=/vless&security=none&encryption=none&host=th02.v2ray.cab&type=ws#madam02"
+    },
+    {
+      "name": "Thailand 03 AIS ใช้งานทั่วไป",
+      "content": "vless://ee2e9137-d55b-46ea-b5e4-0f9d8c74bd98@g4.txi.cab:80?path=/vless&security=none&encryption=none&host=speedtest.net&type=ws#th3"
+    },
+    {
+      "name": "Thailand 03 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "vless://ee2e9137-d55b-46ea-b5e4-0f9d8c74bd98@jaosua.duckdns.org:80?path=%2Fvless&security=none&encryption=none&host=g4.txi.cab&type=ws#th3"
+    },
+    {
+      "name": "Thailand 03 TRUE FB GAMING ใช้งานทั่วไป",
+      "content": "vless://ee2e9137-d55b-46ea-b5e4-0f9d8c74bd98@g4.txi.cab:443?path=/vless&security=tls&encryption=none&host=g4.txi.cab&type=ws&sni=m.me#th3"
+    },
+    {
+      "name": "Thailand 03 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "vless://ee2e9137-d55b-46ea-b5e4-0f9d8c74bd98@104.18.36.19:80?path=%2Fvless&security=none&encryption=none&host=g4.txi.cab&type=ws#th3"
+    },
+    {
+      "name": "Thailand 04 AIS ใช้งานทั่วไป",
+      "content": "vless://5279dd80-2856-469c-9a91-e811b30b7a8b@th4.v2ray.cab:80?path=/vless&security=none&encryption=none&host=speedtest.net&type=ws#th4"
+    },
+    {
+      "name": "Thailand 04 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "vless://5279dd80-2856-469c-9a91-e811b30b7a8b@jaosua.duckdns.org:80?path=/vless&security=none&encryption=none&host=th4.v2ray.cab&type=ws#th4"
+    },
+    {
+      "name": "Thailand 04 TRUE FB GAMING ใช้งานทั่วไป",
+      "content": "vless://5279dd80-2856-469c-9a91-e811b30b7a8b@th4.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th4.v2ray.cab&type=ws&sni=m.me#th4"
+    },
+    {
+      "name": "Thailand 04 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "vless://5279dd80-2856-469c-9a91-e811b30b7a8b@104.18.36.19:80?path=/vless&security=none&encryption=none&host=th4.v2ray.cab&type=ws#th4"
+    },
+    {
+      "name": "Thailand 05 AIS ใช้งานทั่วไป",
+      "content": "trojan://e323107b@th5.v2ray.cab:443?path=/trojan&security=tls&host=th5.v2ray.cab&type=ws&sni=speedtest.net#madam05"
+    },
+    {
+      "name": "Thailand 05 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "trojan://e323107b@jaosua.duckdns.org:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=th5.v2ray.cab#madam05"
+    },
+    {
+      "name": "Thailand 05 TRUE FB GAMING ใช้งานทั่วไป",
+      "content": "trojan://e323107b@th5.v2ray.cab:443?path=/trojan&security=tls&host=th5.v2ray.cab&type=ws&sni=m.me#madam05"
+    },
+    {
+      "name": "Thailand 05 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "trojan://e323107b@104.18.36.19:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=th5.v2ray.cab#madam05"
+    },
+    {
+      "name": "Thailand 06 AIS ใช้งานทั่วไป มาใหม่",
+      "content": "vless://fbf93243-eeda-45dc-9852-f7f168bfcbf4@th06.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th06.v2ray.cab&type=ws&sni=speedtest.net#madam6"
+    },
+    {
+      "name": "Thailand 06 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "vless://fbf93243-eeda-45dc-9852-f7f168bfcbf4@jaosua.duckdns.org:443?path=/vless&security=tls&encryption=none&host=th06.v2ray.cab&type=ws&sni=th06.v2ray.cab#madam6"
+    },
+    {
+      "name": "Thailand 06 TRUE FB GAMING ใช้งานทั่วไป",
+      "content": "vless://fbf93243-eeda-45dc-9852-f7f168bfcbf4@th06.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th06.v2ray.cab&type=ws&sni=fbcdn.net#madam6"
+    },
+    {
+      "name": "Thailand 06 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "vless://fbf93243-eeda-45dc-9852-f7f168bfcbf4@104.18.36.19:443?path=/vless&security=tls&encryption=none&host=th06.v2ray.cab&type=ws&sni=th06.v2ray.cab#madam6"
+    },
+    {
+      "name": "Thailand 07 AIS ใช้งานทั่วไป",
+      "content": "trojan://c4cfa793@mdmth07.txi.cab:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=speedtest.net#madam07"
+    },
+    {
+      "name": "Thailand 07 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "trojan://c4cfa793@jaosua.duckdns.org:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=mdmth07.txi.cab#madam07"
+    },
+    {
+      "name": "Thailand 07 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "trojan://c4cfa793@104.18.36.19:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=mdmth07.txi.cab#madam07"
+    },
+    {
+      "name": "Thailand 07 TRUE FB GAMING ใช้งานทั่วไป",
+      "content": "vless://86b0f8c2-1a38-4dba-9392-0bb2f58f435d@mdmth07.txi.cab:443?path=/vless&security=tls&encryption=none&host=mdmth07.txi.cab&type=ws&sni=m.me#madam07"
+    },
+    {
+      "name": "Thailand 07 UMO",
+      "content": "trojan://c4cfa793@mdmth07.txi.cab:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=www.pubgmobile.com#madam07"
+    },
+    {
+      "name": "Thailand 07 YES NO SUB",
+      "content": "trojan://c4cfa793@104.17.112.188:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=cdn.who.int.th7.txi.cab#madam07"
+    },
+    {
+      "name": "Thailand 07 DIGI NO SUB",
+      "content": "trojan://c4cfa793@10api.useinsider.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=api.useinsider.com.th7.txi.cab#madam07"
+    },
+    {
+      "name": "Thailand 08 AIS ใช้งานทั่วไป",
+      "content": "vless://f87c1fc5-35ba-4f08-8a1c-4e1f098c30d5@th08.v2ray.cab:80?path=/vless&security=none&encryption=none&host=speedtest.net&type=ws#madam08"
+    },
+    {
+      "name": "Thailand 08 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "vless://f87c1fc5-35ba-4f08-8a1c-4e1f098c30d5@jaosua.duckdns.org:80?path=/vless&security=none&encryption=none&host=th08.v2ray.cab&type=ws#madam08"
+    },
+    {
+      "name": "Thailand 08 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "vless://f87c1fc5-35ba-4f08-8a1c-4e1f098c30d5@104.18.36.19:80?path=/vless&security=none&encryption=none&host=th08.v2ray.cab&type=ws#madam08"
+    },
+     {
+      "name": "Thailand 09 AIS ใช้งานทั่วไป",
+      "content": "vless://8abb0b02-ed1c-46db-b047-bd7977e21853@th09.v2ray.cab:80?path=/vless&security=none&encryption=none&host=speedtest.net&type=ws#madamth09"
+    },
+    {
+      "name": "Thailand 09 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "vless://8abb0b02-ed1c-46db-b047-bd7977e21853@jaosua.duckdns.org:80?path=/vless&security=none&encryption=none&host=th09.v2ray.cab&type=ws#madamth09"
+    },
+    {
+      "name": "Thailand 09 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "vless://8abb0b02-ed1c-46db-b047-bd7977e21853@104.18.36.19:80?path=/vless&security=none&encryption=none&host=th09.v2ray.cab&type=ws#madamth09"
+    },
+    {
+      "name": "Thailand 10 AIS ใช้งานทั่วไป",
+      "content": "vless://7521a7ae-6904-4417-9a2c-4b3853047da2@g3.txi.cab:80?path=/vless&security=none&encryption=none&host=speedtest.net&type=ws#th10"
+    },
+    {
+      "name": "Thailand 10 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "vless://7521a7ae-6904-4417-9a2c-4b3853047da2@jaosua.duckdns.org:80?path=/vless&security=none&encryption=none&host=g3.txi.cab&type=ws#th10"
+    },
+    {
+      "name": "Thailand 10 TRUE FB GAMING ใช้งานทั่วไป",
+      "content": "vless://7521a7ae-6904-4417-9a2c-4b3853047da2@g3.txi.cab:443?path=/vless&security=tls&encryption=none&host=g3.txi.cab&type=ws&sni=m.me#th10"
+    },
+    {
+      "name": "Thailand 10 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "vless://7521a7ae-6904-4417-9a2c-4b3853047da2@j104.18.36.19:80?path=/vless&security=none&encryption=none&host=g3.txi.cab&type=ws#th10"
+    },
+    {
+      "name": "Thailand 11 AIS" ,
+      "content": "vless://c1d08bb9-b709-4a99-b404-2a8ae6b6cb84@th11.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th11.v2ray.cab&type=ws&sni=speedtest.net#madam11"
+    },
+    {
+      "name": "Thailand 11 TRUE NOPRO",
+      "content": "vless://c1d08bb9-b709-4a99-b404-2a8ae6b6cb84@jaosua.duckdns.org:80?path=/vless&security=none&encryption=none&host=th11.v2ray.cab&type=ws#madam11"
+    },
+    {
+      "name": "Thailand 11 TRUE FB GAMING",
+      "content": "vless://c1d08bb9-b709-4a99-b404-2a8ae6b6cb84@jaosua.duckdns.org:443?path=/vless&security=tls&encryption=none&host=th11.v2ray.cab&type=ws&sni=m.me#madam11"
+    },
+    {
+      "name": "Thailand 11 DTAC SOCIAL",
+      "content": "vless://c1d08bb9-b709-4a99-b404-2a8ae6b6cb84@104.18.36.19:80?path=/vless&security=none&encryption=none&host=th11.v2ray.cab&type=ws#madam11"
+    },
+    {
+      "name": "Thailand 11 UMO่",
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@th13.v2ray.cab:80?path=/vless&security=none&encryption=none&host=www.pubgmobile.com&type=ws#madam13"
+    },
+    {
+      "name": "Thailand 11 YES NO SUB่",
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@104.17.112.188:80?path=/vless&security=none&encryption=none&host=cdn.who.int.t13.v2ray.cab&type=ws#madam13"
+    },
+    {
+      "name": "Thailand 11 DIGI NO SUB่",
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@api.useinsider.com:80?path=/vless&security=none&encryption=none&host=api.useinsider.com.t13.v2ray.cab&type=ws#madam13"
+    },
+    {
+      "name": "Thailand 11 DIGI POKEMON่",
+      "content": "vless://c1d08bb9-b709-4a99-b404-2a8ae6b6cb84@th11.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th11.v2ray.cab&type=ws&sni=m.pokemon.com#madam11"
+    },
+    {
+      "name": "Thailand 12 AIS" ,
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@th13.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th13.v2ray.cab&type=ws&sni=speedtest.net#madam13"
+    },
+    {
+      "name": "Thailand 12 TRUE NOPRO",
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@jaosua.duckdns.org:80?path=/vless&security=none&encryption=none&host=th13.v2ray.cab&type=ws#madam13"
+    },
+    {
+      "name": "Thailand 12 TRUE FB GAMING",
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@th13.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th13.v2ray.cab&type=ws&sni=fbcdn.net#madam13"
+    },
+    {
+      "name": "Thailand 12 DTAC SOCIAL",
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@104.18.36.19:80?path=/vless&security=none&encryption=none&host=th13.v2ray.cab&type=ws#madam13"
+    },
+    {
+      "name": "Thailand 12 UMO่",
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@th13.v2ray.cab:80?path=/vless&security=none&encryption=none&host=www.pubgmobile.com&type=ws#madam13"
+    },
+    {
+      "name": "Thailand 12 YES NO SUB่",
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@104.17.112.188:80?path=/vless&security=none&encryption=none&host=cdn.who.int.t13.v2ray.cab&type=ws#madam13"
+    },
+    {
+      "name": "Thailand 12 DIGI NO SUB่",
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@api.useinsider.com:80?path=/vless&security=none&encryption=none&host=api.useinsider.com.t13.v2ray.cab&type=ws#madam13"
+    },
+    {
+      "name": "Thailand 12 DIGI POKEMON่",
+      "content": "vless://0746cefb-d5f2-439e-bbdd-95c65c2b83e5@th13.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th13.v2ray.cab&type=ws&sni=m.pokemon.com#madam13"
+    },
+    {
+      "name": "Thailand 13 AIS",
+      "content": "vless://6c0dcdc6-e418-4c7a-90ee-91789b3704e0@th14.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th14.v2ray.cab&type=ws&sni=speedtest.net#madam14"
+    },
+    {
+      "name": "Thailand 13 TRUE NOPRO",
+      "content": "vless://6c0dcdc6-e418-4c7a-90ee-91789b3704e0@jaosua.duckdns.org:80?path=/vless&security=none&encryption=none&host=th14.v2ray.cab&type=ws#madam14"
+    },
+    {
+      "name": "Thailand 13 TRUE FB GAMING",
+      "content": "vless://6c0dcdc6-e418-4c7a-90ee-91789b3704e0@th14.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th14.v2ray.cab&type=ws&sni=fbcdn.net#madam14"
+    },
+    {
+      "name": "Thailand 13 DTAC SOCIAL",
+      "content": "vless://6c0dcdc6-e418-4c7a-90ee-91789b3704e0@104.18.36.19:80?path=/vless&security=none&encryption=none&host=th14.v2ray.cab&type=ws#madam14"
+    },
+    {
+      "name": "Thailand 13 UMO่",
+      "content": "vless://6c0dcdc6-e418-4c7a-90ee-91789b3704e0@th14.v2ray.cab:80?path=/vless&security=none&encryption=none&host=www.pubgmobile.com&type=ws#madam14"
+    },
+    {
+      "name": "Thailand 13 YES NO SUB่",
+      "content": "vless://6c0dcdc6-e418-4c7a-90ee-91789b3704e0@104.17.112.188:80?path=%2Fvless&security=none&encryption=none&host=cdn.who.int.t14.v2ray.cab&type=ws#madam14"
+    },
+    {
+      "name": "Thailand 13 DIGI NO SUB่",
+      "content": "vless://6c0dcdc6-e418-4c7a-90ee-91789b3704e0@api.useinsider.com:80?path=%2Fvless&security=none&encryption=none&host=api.useinsider.com.t14.v2ray.cab&type=ws#madam14"
+    },
+    {
+      "name": "Thailand 13 DIGI POKEMON่",
+      "content": "vless://6c0dcdc6-e418-4c7a-90ee-91789b3704e0@th14.v2ray.cab:443?path=/vless&security=tls&encryption=none&host=th14.v2ray.cab&type=ws&sni=m.pokemon.com#madam14"
+    },
+    {
+      "name": "Thailand Game 01 AIS สำหรับเกมส์เท่านั้น",
+      "content": "vless://c07dc1ac-d623-4aa2-86d2-01480bfbc6c7@g1.madamvpn.tech:80?path=/vless&security=none&encryption=none&host=speedtest.net&type=ws#g1"
+	},
+    {
+      "name": "Thailand Game 01 AIS สำหรับเกมส์เท่านั้น",
+      "content": "vless://7521a7ae-6904-4417-9a2c-4b3853047da2@g3.txi.cab:80?path=/vless&security=none&encryption=none&host=speedtest.net&type=ws#g3"
+    },
+    {
+      "name": "Thailand Game 01 TRUE NOPRO สำหรับเกมส์เท่านั้น",
+      "content": "vless://7521a7ae-6904-4417-9a2c-4b3853047da2@jaosua.duckdns.org:80?path=/vless&security=none&encryption=none&host=g3.txi.cab&type=ws#g3"
+    },
+    {
+      "name": "Thailand Game 01 DTAC SOCIAL สำหรับเกมส์เท่านั้น",
+      "content": "vless://7521a7ae-6904-4417-9a2c-4b3853047da2@104.18.36.19:80?path=/vless&security=none&encryption=none&host=g3.txi.cab&type=ws#g3"
+    },
+    {
+      "name": "Thailand Game 02 AIS สำหรับเกมส์เท่านั้น",
+      "content": "vless://ee2e9137-d55b-46ea-b5e4-0f9d8c74bd98@g4.txi.cab:80?path=/vless&security=none&encryption=none&host=speedtest.net&type=ws#g4"
+    },
+    {
+      "name": "Thailand Game 02 TRUE NOPRO สำหรับเกมส์เท่านั้น",
+      "content": "vless://ee2e9137-d55b-46ea-b5e4-0f9d8c74bd98@jaosua.duckdns.org:80?path=/vless&security=none&encryption=none&host=g4.txi.cab&type=ws#g4"
+    },
+    {
+      "name": "Thailand Game 02 DTAC SOCIAL สำหรับเกมส์เท่านั้น",
+      "content": "vless://ee2e9137-d55b-46ea-b5e4-0f9d8c74bd98@104.18.36.19:80?path=/vless&security=none&encryption=none&host=g4.txi.cab&type=ws#g4"
+    },
+    {
+      "name": "Thailand Game 03 AIS สำหรับเกมส์เท่านั้น",
+      "content": "trojan://9a4c232b@th12.v2ray.cab:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=speedtest.net#g5"
+    },
+    {
+      "name": "Thailand Game 03 TRUE NOPRO สำหรับเกมส์เท่านั้น",
+      "content": "trojan://9a4c232b@jaosua.duckdns.org:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=th12.v2ray.cab#g5"
+    },
+    {
+      "name": "Thailand Game 03 DTAC SOCIAL สำหรับเกมส์เท่านั้น",
+      "content": "trojan://9a4c232b@104.18.36.19:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=th12.v2ray.cab#g5"
+    },
+    {
+      "name": "Thailand Game 04 AIS สำหรับเกมส์เท่านั้น",
+      "content": "trojan://26432874@g6.madamvpn.tech:443?security=tls&type=tcp&sni=speedtest.net#g6"
+    },
+    {
+      "name": "Thailand Game 04 TRUE NOPRO สำหรับเกมส์เท่านั้น",
+      "content": "trojan://26432874@jaosua.duckdns.org:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=g6.madamvpn.tech#g6"
+    },
+    {
+      "name": "Thailand Game 04 TRUE FB GAMING สำหรับเกมส์เท่านั้น",
+      "content": "trojan://26432874@g6.madamvpn.tech:443?security=tls&type=tcp&sni=m.me#g6"
+    },
+    {
+      "name": "Thailand Game 04 DTAC SOCIAL สำหรับเกมส์เท่านั้น",
+      "content": "trojan://26432874@104.18.36.19:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=g6.madamvpn.tech#g6"
+    },
+    {
+      "name": "Thailand Game 05 AIS สำหรับเกมส์เท่านั้น",
+      "content": "trojan://a5bc2de0@g7.madamvpn.tech:443?security=tls&type=tcp&sni=speedtest.net#g7"
+    },
+    {
+      "name": "Thailand Game 05 TRUE NOPRO สำหรับเกมส์เท่านั้น",
+      "content": "trojan://a5bc2de0@jaosua.duckdns.org:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=g7.madamvpn.tech#g7"
+    },
+    {
+      "name": "Thailand Game 05 TRUE FB GAMING สำหรับเกมส์เท่านั้น",
+      "content": "trojan://a5bc2de0@g7.madamvpn.tech:443?security=tls&type=tcp&sni=m.me#g7"
+    },
+    {
+      "name": "Thailand Game 05 DTAC SOCIAL สำหรับเกมส์เท่านั้น",
+      "content": "trojan://a5bc2de0@104.18.36.19:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=g7.madamvpn.tech#g7"
+    },
+    {
+      "name": "Thailand TCP 01 AIS สำหรับเกมส์เท่านั้น",
+      "content": "trojan://9a4c232b@th12.v2ray.cab:443?security=tls&type=tcp&sni=speedtest.net#g5"
+    },
+    {
+      "name": "Thailand TCP 01 TRUE FB GAMING สำหรับเกมส์เท่านั้น",
+      "content": "trojan://9a4c232b@th12.v2ray.cab:443?security=tls&type=tcp&sni=m.me#g5"
+    },
+    {
+      "name": "Thailand TCP 02 AIS สำหรับเกมส์เท่านั้น",
+      "content": "trojan://c40ae026@th08.v2ray.cab:443?security=tls&type=tcp&sni=speedtest.net#tcp02"
+    },
+    {
+      "name": "Thailand TCP 02 TRUE FB GAMING สำหรับเกมส์เท่านั้น",
+      "content": "trojan://c40ae026@th08.v2ray.cab:443?security=tls&type=tcp&sni=m.me#tcp02"
+    },
+    {
+      "name": "Thailand TCP 03 AIS สำหรับเกมส์เท่านั้น",
+      "content": "trojan://8e0faeac@th09.v2ray.cab:443?security=tls&type=tcp&sni=speedtest.net#tcp03"
+    },
+    {
+      "name": "Thailand TCP 03 TRUE FB GAMING สำหรับเกมส์เท่านั้น",
+      "content": "trojan://8e0faeac@th09.v2ray.cab:443?security=tls&type=tcp&sni=m.me#tcp03"
+    },
+    {
+      "name": "Thailand TCP 04 AIS สำหรับเกมส์เท่านั้น",
+      "content": "trojan://35fe17e0@sp.madamvpn.tech:443?security=tls&type=tcp&sni=speedtest.net#sp1"
+    },
+    {
+      "name": "Thailand TCP 04 TRUE FB GAMING สำหรับเกมส์เท่านั้น",
+      "content": "trojan://35fe17e0@sp.madamvpn.tech:443?security=tls&type=tcp&sni=m.me#sp1"
+    },
+    {
+      "name": "Singapore 01 AIS ใช้งานทั่วไป",
+      "content": "trojan://357b63ef@sg1.madamvpn.tech:443?security=tls&type=tcp&sni=speedtest.net#SG01"
+    },
+    {
+      "name": "Singapore 01 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "trojan://357b63ef@jaosua.duckdns.org:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=sg1.madamvpn.tech#SG01"
+    },
+    {
+      "name": "Singapore 01 TRUE FB GAMING ใช้งานทั่วไป",
+      "content": "trojan://357b63ef@sg1.madamvpn.tech:443?security=tls&type=tcp&sni=m.me#SG01"
+    },
+    {
+      "name": "Singapore 01 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "trojan://357b63ef@104.18.36.19:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=sg1.madamvpn.tech#SG01"
+    },
+    {
+      "name": "Singapore 01 YES NO SUB",
+      "content": "vless://2b266b87-de00-4365-b6f5-a47fde5ba89f@104.17.112.188:80?path=%2Fvless&security=none&encryption=none&host=cdn.who.int.s1.madamvpn.tech&type=ws#sg1"
+    },
+    {
+      "name": "Singapore 01 DIGI NO SUB",
+      "content": "vless://2b266b87-de00-4365-b6f5-a47fde5ba89f@api.useinsider.com:80?path=%2Fvless&security=none&encryption=none&host=api.useinsider.com.s1.madamvpn.tech&type=ws#sg1"
+    },
+    {
+      "name": "Singapore 01 DIGI POKEMON",
+      "content": "vless://2b266b87-de00-4365-b6f5-a47fde5ba89f@m.pokemon.com.s1.madamvpn.tech:80?path=%2Fvless&security=none&encryption=none&host=m.pokemon.com&type=ws#sg1"
+    },
+    {
+      "name": "Singapore 01 UMO ใช้งานทั่วไป",
+      "content": "vless://2b266b87-de00-4365-b6f5-a47fde5ba89f@www.pubgmobile.com.s1.madamvpn.tech:80?path=%2Fvless&security=none&encryption=none&host=www.pubgmobile.com&type=ws#sg1"
+    },
+    {
+      "name": "Singapore 02 AIS ใช้งานทั่วไป",
+      "content": "trojan://2000be30@sg10.madamvpn.tech:443?security=tls&type=tcp&sni=m.me#sg9"
+    },
+    {
+      "name": "Singapore 02 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "trojan://2000be30@jaosua.duckdns.org:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=sg10.madamvpn.tech#sg9"
+    },
+    {
+      "name": "Singapore 02 TRUE FB GAMING ใช้งานทั่วไป",
+      "content": "trojan://2000be30@sg10.madamvpn.tech:443?security=tls&type=tcp&sni=m.me#sg9"
+    },
+    {
+      "name": "Singapore 02 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "trojan://2000be30@104.18.36.19:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=sg10.madamvpn.tech#sg9"
+    },
+    {
+      "name": "Singapore 02 YES NO SUB",
+      "content": "vless://f6c3d0ad-6ac9-4e66-ac50-343420b4a739@104.17.112.188:80?path=/vless&security=none&encryption=none&host=sg10.madamvpn.tech&type=ws#msia"
+    },
+    {
+      "name": "Singapore 02 UMO",
+      "content": "vless://f6c3d0ad-6ac9-4e66-ac50-343420b4a739@sg10.madamvpn.tech:80?path=/vless&security=none&encryption=none&host=www.pubgmobile.com&type=ws#msia"
+    },
+    {
+      "name": "Australia 01 AIS ใช้งานทั่วไป",
+      "content": "trojan://6cb740ca@au2.madamvpn.tech:443?security=tls&type=tcp&sni=speedtest.net#au2"
+    },
+    {
+      "name": "Australia 01 TRUE NOPRO ใช้งานทั่วไป",
+      "content": "trojan://6cb740ca@jaosua.duckdns.org:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=au2.madamvpn.tech#au2"
+    },
+    {
+      "name": "Australia 01 DTAC SOCIAL ใช้งานทั่วไป",
+      "content": "trojan://6cb740ca@104.18.36.19:80:80?security=none&type=ws&headerType=none&path=%252Ftrojan&host=au2.madamvpn.tech#au21"
+    }
+  ]
+}
