@@ -1,0 +1,201 @@
+{
+  "version": 4.5,
+  "message": "📥 กรุณากดอัพเดท เพื่อเพิ่มประสิทธิภาพในการใช้งาน\n\n📁 มีไฟล์อัพเดตเวอร์ชันใหม่ V 4.5\n\n📆 วันเวลาที่อัพเดท 16/05/2024\n\n- แก้ไขเซิฟเวอร์ไทยต่อไม่ติด\n\n",
+  "data": [
+    {
+      "name": "JP-Ultar-Ais-01",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@jp1.alienvpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-JP1-WS"
+    },
+    {
+      "name": "JP-Ultar-Ais-02",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@jp2.alienvpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-JP2-WS"
+    },
+    {
+      "name": "JP-Ultar-True-01",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@truenopro.alienvpn.online:80?path=%2F&security=none&encryption=none&host=jp1.alienvpn.online&type=ws#TRUE-JP1-WS"
+    },
+    {
+      "name": "JP-Ultar-True-02",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@truenopro.alienvpn.online:80?path=%2F&security=none&encryption=none&host=jp2.alienvpn.online&type=ws#TRUE-JP2-WS"
+    },
+    {
+      "name": "JP-Ultar-True-Facebookgaming-01",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@jp1.alienvpn.online:11590?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=fbcdn.net#TRUE-JP1-TCP-tls"
+    },
+    {
+      "name": "JP-Ultar-True-Facebookgaming-02",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@jp2.alienvpn.online:11590?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=fbcdn.net#TRUE-JP2-TCP-tls"
+    },
+    {
+      "name": "SG-Ultar-Ais-01",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJzZzEuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZGRkZC1kZGRkLWRkZGQtZGRkZC1kZGRkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiU0cxLUFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-Ais-02",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJzZzIuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZGRkZC1kZGRkLWRkZGQtZGRkZC1kZGRkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiU0cyLUFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-Ais-03",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJzZzMuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZGRkZC1kZGRkLWRkZGQtZGRkZC1kZGRkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiU0czLUFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-Ais-04",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJzZzQuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZGRkZC1kZGRkLWRkZGQtZGRkZC1kZGRkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiU0c0LUFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-True-01",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzEuYWxpZW52cG4ub25saW5lIiwiaWQiOiJkZGRkLWRkZGQtZGRkZC1kZGRkLWRkZGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzEtVHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-True-02",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzIuYWxpZW52cG4ub25saW5lIiwiaWQiOiJkZGRkLWRkZGQtZGRkZC1kZGRkLWRkZGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzItVHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-True-03",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzMuYWxpZW52cG4ub25saW5lIiwiaWQiOiI4NzU4MzBlNC02M2Y5LTRmNmItYmZiMS0yOWIzZDU3ZTZlZGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzMtVHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-True-04",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzQuYWxpZW52cG4ub25saW5lIiwiaWQiOiJkZGRkLWRkZGQtZGRkZC1kZGRkLWRkZGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzQtVHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-True-Facebookgaming-01",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJzZzEuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGRkZC1kZGRkLWRkZGQtZGRkZC1kZGRkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTU5MCIsInBzIjoiU0cxLUZhY2Vib29rZ2FtaW5nIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-True-Facebookgaming-02",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJzZzIuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGRkZC1kZGRkLWRkZGQtZGRkZC1kZGRkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTU5MCIsInBzIjoiU0cyLUZhY2Vib29rZ2FtaW5nIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-True-Facebookgaming-03",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJzZzMuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGRkZC1kZGRkLWRkZGQtZGRkZC1kZGRkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTU5MCIsInBzIjoiU0czLUZhY2Vib29rZ2FtaW5nIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "SG-Ultar-True-Facebookgaming-04",
+      "detail": "",
+      "content": "vmess://eyJhZGQiOiJzZzQuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGRkZC1kZGRkLWRkZGQtZGRkZC1kZGRkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTU5MCIsInBzIjoiU0c0LUZhY2Vib29rZ2FtaW5nIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+    },
+    {
+      "name": "TH-Bangmod-Ais-01",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@bangmod1.alienvpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-Bangmod1-WS-Duck"
+    },
+    {
+      "name": "TH-Bangmod-Ais-02",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@bangmod2.alienvpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-Bangmod2-WS-Duck"
+    },
+    {
+      "name": "TH-Bangmod-Ais-03",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@bangmod3.alienvpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-Bangmod3-WS-Duck"
+    },
+    {
+      "name": "TH-Bangmod-Ais-04",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@bangmod4.alienvpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-Bangmod4-WS-Duck"
+    },
+    {
+      "name": "TH-Bangmod-True-01",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@truenopro.alienvpn.online:80?path=%2F&security=none&encryption=none&host=bangmod1.alienvpn.online&type=ws#True-Bangmod1-WS-Duck"
+    },
+    {
+      "name": "TH-Bangmod-True-02",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@truenopro.alienvpn.online:80?path=%2F&security=none&encryption=none&host=bangmod2.alienvpn.online&type=ws#True-Bangmod2-WS-Duck"
+    },
+    {
+      "name": "TH-Bangmod-True-03",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@truenopro.alienvpn.online:80?path=%2F&security=none&encryption=none&host=bangmod3.alienvpn.online&type=ws#True-Bangmod3-WS-Duck"
+    },
+    {
+      "name": "TH-Bangmod-True-04",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@truenopro.alienvpn.online:80?path=%2F&security=none&encryption=none&host=bangmod4.alienvpn.online&type=ws#True-Bangmod4-WS-Duck"
+    },
+    {
+      "name": "TH-Bangmod-True-Facebookgaming-01",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@bangmod1.alienvpn.online:11590?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=fbcdn.net#True-Bangmod1-TCP-Duck-tls"
+    },
+    {
+      "name": "TH-Bangmod-True-Facebookgaming-02",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@bangmod2.alienvpn.online:11590?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=fbcdn.net#True-Bangmod2-TCP-Duck-tls"
+    },
+    {
+      "name": "TH-Bangmod-True-Facebookgaming-03",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@bangmod3.alienvpn.online:11590?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=fbcdn.net#True-Bangmod3-TCP-Duck-tls"
+    },
+    {
+      "name": "TH-Bangmod-True-Facebookgaming-04",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@bangmod4.alienvpn.online:11590?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=fbcdn.net#True-Bangmod4-TCP-Duck-tls"
+    },
+    {
+      "name": "TH-Cat-Ais-01",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@nt1.alienvpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-nt1-WS"
+    },
+    {
+      "name": "TH-Cat-Ais-02",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@nt2.alienvpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-nt2-WS"
+    },
+    {
+      "name": "TH-Cat-Ais-03",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@nt3.alienvpn.online:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-nt3-WS"
+    },
+    {
+      "name": "TH-Cat-True-01",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@truenopro.alienvpn.online:80?path=%2F&security=none&encryption=none&host=nt1.alienvpn.online&type=ws#TRUE-nt1-WS"
+    },
+    {
+      "name": "TH-Cat-True-02",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@truenopro.alienvpn.online:80?path=%2F&security=none&encryption=none&host=nt2.alienvpn.online&type=ws#TRUE-nt2-WS"
+    },
+    {
+      "name": "TH-Cat-True-03",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@truenopro.alienvpn.online:80?path=%2F&security=none&encryption=none&host=nt3.alienvpn.online&type=ws#TRUE-nt3-WS"
+    },
+    {
+      "name": "TH-Cat-True-Facebookgaming-01",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@nt1.alienvpn.online:11590?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=fbcdn.net#TRUE-nt1-TCP-tls"
+    },
+    {
+      "name": "TH-Cat-True-Facebookgaming-02",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@nt2.alienvpn.online:11590?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=fbcdn.net#TRUE-nt2-TCP-tls"
+    },
+    {
+      "name": "TH-Cat-True-Facebookgaming-03",
+      "detail": "",
+      "content": "vless://dddd-dddd-dddd-dddd-dddd@nt3.alienvpn.online:11590?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=fbcdn.net#TRUE-nt3-TCP-tls"
+    }
+  ]
+}
